@@ -504,7 +504,7 @@ export default function HomePage() {
                   GH
                 </span>
                 <a
-                   href="https://github.com/Gokulakannan1110"
+                  href="https://github.com/Gokulakannan1110"
                   target="_blank"
                   rel="noreferrer"
                   style={{ color: "#e5e7eb" }}
