@@ -249,10 +249,9 @@ ul {
 
 /* ===== RESPONSIVE BREAKPOINTS ===== */
 
+/* Mobile first adjustments */
 @media (max-width: 768px) {
-  .nav-links {
-    display: none;
-  }
+  /* keep navbar visible on mobile */
 
   .hero-inner {
     flex-direction: column;
