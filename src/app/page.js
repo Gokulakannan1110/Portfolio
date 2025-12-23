@@ -509,7 +509,7 @@ export default function HomePage() {
                   rel="noreferrer"
                   style={{ color: "#e5e7eb" }}
                 >
-                  github.com/your-github-username
+                  github.com/Gokulakannan1110
                 </a>
               </div>
             </div>
