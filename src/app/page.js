@@ -113,14 +113,7 @@ export default function HomePage() {
             <h2 className="section-title">Skills</h2>
 
             {/* Technical + Professional columns */}
-            <div
-              style={{
-                display: "grid",
-                gridTemplateColumns: "minmax(0, 1.4fr) minmax(0, 1fr)",
-                gap: "40px",
-                marginTop: "24px",
-              }}
-            >
+            <div className="skills-columns">
               {/* TECHNICAL SKILLS */}
               <div>
                 <h3
@@ -283,14 +276,7 @@ export default function HomePage() {
               Latest <span style={{ color: "#22d3ee" }}>Projects</span>
             </h2>
 
-            <div
-              style={{
-                marginTop: "24px",
-                display: "grid",
-                gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))",
-                gap: "24px",
-              }}
-            >
+            <div className="projects-grid">
               {/* Banking Management System */}
               <article
                 style={{
