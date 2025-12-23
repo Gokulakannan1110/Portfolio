@@ -86,7 +86,9 @@ export default function HomePage() {
                   <span>Gokulakannan</span>
                 </li>
                 <li style={{ marginBottom: "6px" }}>
-                  <span style={{ color: "#94a3b8" }}>Date of Birth:&nbsp;</span>
+                  <span style={{ color: "#94a3b8" }}>
+                    Date of Birth:&nbsp;
+                  </span>
                   <span>October 11, 2002</span>
                 </li>
                 <li style={{ marginBottom: "6px" }}>
@@ -264,7 +266,7 @@ export default function HomePage() {
                           color: "#cbd5f5",
                         }}
                       >
-                        {item.note}[web:235][web:241]
+                        {item.note}
                       </div>
                     </div>
                   ))}
@@ -339,7 +341,8 @@ export default function HomePage() {
                     marginTop: "6px",
                   }}
                 >
-                  Tech used: Python, Django, HTML, CSS, JavaScript, and MySQL database with Django models.
+                  Tech used: Python, Django, HTML, CSS, JavaScript, and MySQL
+                  database with Django models.
                 </p>
               </article>
 
@@ -393,7 +396,8 @@ export default function HomePage() {
                     marginTop: "6px",
                   }}
                 >
-                  Tech used: Python, Django, HTML, CSS, JavaScript, and MySQL database with Django models.
+                  Tech used: Python, Django, HTML, CSS, JavaScript, and MySQL
+                  database with Django models.
                 </p>
               </article>
             </div>
@@ -408,7 +412,10 @@ export default function HomePage() {
             </h2>
 
             <p className="section-text">
-              Seeking a full-time opportunity to contribute my expertise in Python, Django, and React within a dynamic company. I am eager to deliver impactful solutions and grow alongside your team — feel free to connect with me through the options below.
+              Seeking a full-time opportunity to contribute my expertise in
+              Python, Django, and React within a dynamic company. I am eager to
+              deliver impactful solutions and grow alongside your team — feel
+              free to connect with me through the options below.
             </p>
 
             <div
