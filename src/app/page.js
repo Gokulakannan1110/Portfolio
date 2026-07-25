@@ -94,8 +94,8 @@ export default function HomePage() {
                 <li style={{ marginBottom: "6px" }}>
                   <span style={{ color: "#94a3b8" }}>Address:&nbsp;</span>
                   <span>
-                    Kothaval Chavadi St, West Saidapet, Chennai, Tamil Nadu
-                    600015
+                    Dharapuram(Po), Kadayampatti(Tk), Salem(Dt), Tamil Nadu 
+                    636309
                   </span>
                 </li>
                 <li style={{ marginBottom: "6px" }}>

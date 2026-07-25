@@ -43,7 +43,7 @@ export default function Hero() {
           {/* View Resume button under paragraph */}
           <div style={{ marginTop: "24px" }}>
             <a
-              href="/resume.pdf"
+              href="/GOKULAKANNAN.P.pdf"
               target="_blank"
               rel="noreferrer"
               style={{
